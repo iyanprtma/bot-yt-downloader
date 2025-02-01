@@ -12,7 +12,7 @@ load_dotenv()
 TOKEN = os.getenv('BOT_TOKEN')
 
 # Lokasi penyimpanan sementara video
-DOWNLOAD_PATH = "/public_html/bot.rianphotography.my.id/video"
+DOWNLOAD_PATH = "D:/video"
 
 # Daftar resolusi video yang didukung
 SUPPORTED_RESOLUTIONS = [2160, 1440, 1080, 720, 480]
